@@ -1,0 +1,22 @@
+key combinations that I need:
+
+/Ctrl-P - move one line up
+/Ctrl-N - move one line down
+/Ctrl-F - jump one char forward
+/Ctrl-B - jump one char backward
+/Ctrl-D - delete character
+/Ctrl-A - jump to beginning
+/Ctrl-E - jump to end
+/Ctrl-K - delete until end of line
+/Ctrl-U - delete until beginning of line
+/Ctrl-/ - toggle comment
+
+/Meta-D - delete word
+/Meta-back - delete previous word
+/Meta-F - jump forward one word
+/Meta-B - jump backward one word
+/Meta-L - expand selection one line down
+/F12 - goto definition
+/Meta-- - jump back
+
+/Shift-Meta-Arrow Up/Down - Add cursor line above / below
